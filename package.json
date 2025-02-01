@@ -6,7 +6,6 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "wrangler pages dev ./dist",
-     "preview-c": "wrangler pages dev ./dist",
     "astro": "astro"
   },
   "dependencies": {
